@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# Data-Analytics/Data-Science-Projects
 Projects pertaining to statistics, data science and data analytics, visualizations and paper reviews.
 
 1.[WALMART SALES PREDICTION](https://github.com/akadambi12/Data-Analyst-Portfolio-Anupama-Kadambi/blob/main/Walmart%20sales%20prediction%20project%20report.pdf) -
